@@ -9,3 +9,7 @@ Create an array of length N and shuffle the array. Iterate over the array, where
 ## Python
 
 Create a list of people. Shuffle this list.
+
+## C++
+
+Create an array of length N and shuffle. Print the number.
